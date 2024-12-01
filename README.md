@@ -10,7 +10,7 @@ Workshop:
 - 18:00 - 21:00
 - a mixture between lectures and exercises
 
-Exceprcises:
+Exercises:
 - 10' Ex 1 -> discuss about technology, code structure etc.
 - 30' Ex 2 -> identify and name the components of your system
 - 10' Ex 3 -> discuss with another pair (how does context affect naming, testing strategies etc.)
